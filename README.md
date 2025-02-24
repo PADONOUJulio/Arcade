@@ -8,7 +8,7 @@ You need to create two games using three different graphics libraries, and be ab
 The chosen graphics libraries are:
 Ncurse
 SFML
-CSFML
+SDL2
 
 # The games chosen are:
 
@@ -16,6 +16,6 @@ Snake
 Pacman
 
 # How to use:
-$> make
-$> ./arcade lib/lib_arcade_library_name.so
+make
+/arcade lib/lib_arcade_library_name.so
 Exemple: ./arcade lib/lib_arcade_Ncruses.so
